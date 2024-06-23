@@ -68,5 +68,9 @@ https://github.com/Vivek-Tate/RealtiQuest.git
 - **Deep Linking:** [Deep Linking in Android](https://developer.android.com/training/app-links/deep-linking)
 
 ---
+### License
+See the [LICENSE](LICENSE) file for details.
 
-Thank you for using RealtiQuest! For further details, please refer to the attached report.
+---
+
+Feel free to reach out via the project's GitHub repository for any issues or contributions. Enjoy exploring RealtiQuest! For further details, please refer to the attached report.
